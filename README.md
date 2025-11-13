@@ -17,8 +17,7 @@ The Image Color Extractor is a lightweight Flask web app that lets users upload 
 - Lightweight data persistence using SQLite + CSV logging for minimal state management.
 
 **Architecture Diagram:**
-(Place assets/architecture.png and embed below once added)
-Example:
+![Architecture Diagram](assets/architecture.png)
 
 
 **Data / Models / Services:**
